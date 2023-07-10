@@ -24,8 +24,6 @@ Currently, I am working on completing my internship with ALX-Africa & Holberton 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   </p>
 
-## MY STATS 📊
-
 ## SOME GOALS 🤖
 
 - Designing efficient, flexible, reusable and maintainable systems.
