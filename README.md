@@ -5,7 +5,7 @@
 
 <br>
 
-<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
@@ -13,9 +13,9 @@ Full-stack engineer driven by a passion to create efficient, scalable and mainta
 Currently, I am working on completing my internship with ALX-Africa & Holberton School-SE program. This opportunity allows me to acquire technical abilities and job-ready skills to work as a full-stack web developer.<br><br>
 I am committed to continuous improvement, gaining experience, and keeping up with modern ways of working.<br><br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-# Programming Languages:
+### Programming Languages:
 
 <p align="center"> 
   &emsp; 
@@ -40,7 +40,7 @@ I am committed to continuous improvement, gaining experience, and keeping up wit
   </a>
 </p>
 
-# Frontend Development:
+### Frontend Development:
 
 <p align="center"> 
   &emsp; 
@@ -61,7 +61,7 @@ I am committed to continuous improvement, gaining experience, and keeping up wit
   </a>
 </p>
 
-# SOME GOALS:
+### SOME GOALS:
 
 - Designing efficient, flexible, reusable and maintainable systems.
 - To be an experienced developer in web applications.
@@ -69,7 +69,7 @@ I am committed to continuous improvement, gaining experience, and keeping up wit
 
 ![silicon-valley](https://user-images.githubusercontent.com/51681675/199342166-8f40d32f-a581-45a8-95d9-f764b356b8ed.gif)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
