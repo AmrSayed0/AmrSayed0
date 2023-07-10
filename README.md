@@ -3,8 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<br>
-
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -63,7 +61,7 @@ I am committed to continuous improvement, gaining experience, and keeping up wit
 
 ### SOME GOALS:
 
-- Designing efficient, flexible, reusable and maintainable systems.
+- Designing efficient, scalable and maintainable systems.
 - To be an experienced developer in web applications.
 - To be a great Technical Leader some day.
 
@@ -79,6 +77,18 @@ I am committed to continuous improvement, gaining experience, and keeping up wit
 
 </details>
 
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+---
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="AmrSayed0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmrSayed0&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrSayed0&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AmrSayed0" height="230px"/><br/>
+  </p>
+
+</details>
+
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ---
@@ -91,4 +101,5 @@ I am committed to continuous improvement, gaining experience, and keeping up wit
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmrSayed0&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="AmrSayed0" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmrSayed0&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="AmrSayed0" /></a>
+</p>
