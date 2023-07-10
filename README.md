@@ -12,6 +12,8 @@
 Full-stack engineer driven by a passion to create efficient, scalable and maintainable systems. Skilled in Object-Oriented Design, Data Structures, Algorithms design and C++.<br><br>
 Currently, I am working on completing my internship with ALX-Africa & Holberton School-SE program. This opportunity allows me to acquire technical abilities and job-ready skills to work as a full-stack web developer. I am committed to continuous improvement, gaining experience, and keeping up with modern ways of working.<br><br>
 
+<br>
+
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 ## 👨‍💻 Programming Languages:
