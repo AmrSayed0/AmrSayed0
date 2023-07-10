@@ -1,23 +1,20 @@
 <h1 align="center">Hi, I'm Amr Sayed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-
-< align="center">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
-
-<hr>
-<br><br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
-<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+</p>
 
 <br>
 
-<p>
-Full-stack engineer driven by a passion to create efficient, scalable and maintainable systems. Skilled in Object-Oriented Design, Data Structures, Algorithms design and C++.<br><br>
-Currently, I am working on completing my internship with ALX-Africa & Holberton School-SE program. This opportunity allows me to acquire technical abilities and job-ready skills to work as a full-stack web developer. I am committed to continuous improvement, gaining experience, and keeping up with modern ways of working.<br><br>
-💬 If you have any questions or want to connect, feel free to reach out to me on Twitter or through LinkedIn.
-</p>
+<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
+<br><br>
+
+Full-stack engineer driven by a passion to create efficient, scalable and maintainable systems. Skilled in Object-Oriented Design, Data Structures, Algorithms design and C++.<br>
+Currently, I am working on completing my internship with ALX-Africa & Holberton School-SE program. This opportunity allows me to acquire technical abilities and job-ready skills to work as a full-stack web developer. I am committed to continuous improvement, gaining experience, and keeping up with modern ways of working.<br>
+
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 ## 👨‍💻 Programming Languages:
 
@@ -73,7 +70,7 @@ Currently, I am working on completing my internship with ALX-Africa & Holberton 
 
 ![silicon-valley](https://user-images.githubusercontent.com/51681675/199342166-8f40d32f-a581-45a8-95d9-f764b356b8ed.gif)
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
