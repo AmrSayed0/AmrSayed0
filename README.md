@@ -3,12 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=AmrSayed0&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="AmrSayed0" width=19.40%/>
-</p>
-
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
