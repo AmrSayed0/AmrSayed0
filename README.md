@@ -5,14 +5,12 @@
 
 <br>
 
-<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+# <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<br><br>
-
-Full-stack engineer driven by a passion to create efficient, scalable and maintainable systems. Skilled in Object-Oriented Design, Data Structures, Algorithms design and C++.<br>
-Currently, I am working on completing my internship with ALX-Africa & Holberton School-SE program. This opportunity allows me to acquire technical abilities and job-ready skills to work as a full-stack web developer. I am committed to continuous improvement, gaining experience, and keeping up with modern ways of working.<br>
+Full-stack engineer driven by a passion to create efficient, scalable and maintainable systems. Skilled in Object-Oriented Design, Data Structures, Algorithms design and C++.<br><br>
+Currently, I am working on completing my internship with ALX-Africa & Holberton School-SE program. This opportunity allows me to acquire technical abilities and job-ready skills to work as a full-stack web developer. I am committed to continuous improvement, gaining experience, and keeping up with modern ways of working.<br><br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
