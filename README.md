@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
-<h1 align="center">Hi, I'm Amr Sayed
+<h1 align="center">Hi, I'm Amr Sayed 👋</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=100&color=5D53AB&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
@@ -96,7 +96,7 @@
 	<a href="https://github.com/AmrSayed0"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
+<br>
 
 Credit: [AmrSayed](https://github.com/AmrSayed0)
 Last Edited on: 18/05/2024
