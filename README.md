@@ -10,10 +10,10 @@
 <img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/51681675/199342166-8f40d32f-a581-45a8-95d9-f764b356b8ed.gif" />
 
 - 🧑‍💻 I'm a Self-taught Software Engineer & MERN Stack Developer.
-- 🌱 I'm currently learning about Artificial Intelligence & ML.
-- 💼 I'm looking for a Software Engineering new opportunities.
-- 📄 Please have a look at my [Portfolio](https://amrs-portfolio.vercel.app/) for more details about me.
-- 💬 Ask me about anything, I am happy to help.
+- 🎓 I'm a software engineering graduate from Holberton School.
+- 💼 I'm looking for new opportunities in software engineering.
+- 📄 Take a look at my [**portfolio**](https://amrs-portfolio.vercel.app/) for more details about me.
+- 💬 Ask me anything, I'll be happy to help you ASAP.
 
   <br>
 
@@ -112,12 +112,12 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-	<a href="mailto:AmrSayed.amrsayedhk@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:amrsayedhk@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/amr-sayed8/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/AmrSayed0"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 Credit: [AmrSayed](https://github.com/AmrSayed0)
-Last Edited on: 21/05/2024
+Last Edited on: 22/05/2024
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
