@@ -9,9 +9,9 @@
 
 <img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/51681675/199342166-8f40d32f-a581-45a8-95d9-f764b356b8ed.gif" />
 
-- 🧑‍💻 I'm a Self-taught Software Engineer & MERN Stack Developer.
-- 🎓 I'm a software engineering graduate from Holberton School.
-- 💼 I'm looking for new opportunities in software engineering.
+- 🧑‍💻 I'm a Self-taught Software Engineer & Full Stack Developer.
+- 🎓 I'm a software engineering graduate from Holberton School & ALX.
+- 💼 I'm looking for new opportunities in software engineering industry.
 - 📄 Take a look at my [**portfolio**](https://amrs-portfolio.vercel.app/) for more details about me.
 - 💬 Ask me anything, I'll be happy to help you ASAP.
 
